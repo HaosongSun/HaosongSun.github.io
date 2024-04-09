@@ -5,11 +5,70 @@
     <link href="http://example.com" />
     <updated>2024-04-02T14:04:39.000Z</updated>
     <entry>
-        <id>http://example.com/2024/04/02/cv/</id>
-        <title>cv</title>
-        <link rel="alternate" href="http://example.com/2024/04/02/cv/"/>
-        <content type="html">&lt;p&gt;##hello##&lt;/p&gt;
-&lt;p&gt;##word##&lt;/p&gt;
+        <id>http://example.com/2024/04/02/About%20me/</id>
+        <title>About me</title>
+        <link rel="alternate" href="http://example.com/2024/04/02/About%20me/"/>
+        <content type="html">&lt;h1 id=&#34;font-colorcornflowerblue教育经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue教育经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;教育经历&lt;/font&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;2021.09-2025.06    中国科学技术大学，合肥，安徽&lt;br&gt;
+物理学（本科）&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GPA：&lt;/strong&gt; 3.96（前 10%）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专业排名：&lt;/strong&gt;(物理学) 14/143&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;专业方向排名：&lt;/strong&gt;(原子与分子物理专业) 7/57&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;核心课程：&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;数学类：&lt;/strong&gt; 数学分析 B1（93），数学分析 B2（92），线性代数 B1（99），数理方程 A（95），复变函数 A（95），概率论与数理统计（95）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物理学类：&lt;/strong&gt; 电磁学 A（99），光学 A（99），理论力学 A（91），电动力学 A（90），量子力学 A（97）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;font-colorcornflowerblue科研经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue科研经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;科研经历&lt;/font&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2022.10-2024.01  林毅恒教授课题组&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2024.02-2024.07  汪野教授课题组&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;font-colorcornflowerblue校园经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue校园经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;校园经历&lt;/font&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;font-colorcornflowerblue获奖经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue获奖经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;获奖经历&lt;/font&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;省级奖项：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 全国大学生数学竞赛（非数学类）一等奖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;校级奖项：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 中国科学技术大学 2023 年度优秀生奖学金金奖&lt;/li&gt;
+&lt;li&gt;2023 严济慈科技英才班 A 档奖学金&lt;/li&gt;
+&lt;li&gt;2023 “九章杯” 数学竞赛非数组一等奖&lt;/li&gt;
+&lt;li&gt;2023 第二届中国科学技术大学摄影摄像与数字艺术大赛数字艺术类一等奖&lt;/li&gt;
+&lt;li&gt;2023 中科院微观磁共振重点实验室本科生奖金&lt;/li&gt;
+&lt;li&gt;2022 中国科学技术大学 2022 年度优秀生奖学金金奖&lt;/li&gt;
+&lt;li&gt;2022 严济慈科技英才班 A 档奖学金&lt;/li&gt;
+&lt;li&gt;2022 自然科学类电磁学小论文竞赛一等奖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;font-colorcornflowerblue技能font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue技能font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;技能&lt;/font&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;计算机：&lt;/strong&gt; C 语言，Python，Mathematica，COMSOL，Lammps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;英语：&lt;/strong&gt; CET 4（608），CET 6（588）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 </content>
         <updated>2024-04-02T14:04:39.000Z</updated>
     </entry>
