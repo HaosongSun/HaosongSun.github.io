@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Xiaoyu&#39;s Space</title>
+        <link>http://example.com</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Tue, 02 Apr 2024 22:04:39 +0800</pubDate>
+        <lastBuildDate>Tue, 02 Apr 2024 22:04:39 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/04/02/cv/</guid>
+            <title>cv</title>
+            <link>http://example.com/2024/04/02/cv/</link>
+            <pubDate>Tue, 02 Apr 2024 22:04:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;##hello##&lt;/p&gt;
+&lt;p&gt;##word##&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
