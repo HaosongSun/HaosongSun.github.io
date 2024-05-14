@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 7.0.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="持续更新中・・・・・・  # 《一种常压二十二极阱的设计与应用研究》 2022.10-2024.01 指导教师：林毅恒 大学生创新创业国家级项目 项目负责人 项目详情：  常压二十二极淀粉阱能够便捷地反映出量子系统中二十二极阱的工作性能，因此搭建常压二十二极淀粉阱实现对其结构设计及束缚特性的研究。我们进行了 COMSOL 模拟得出了二十二极阱的最佳束缚条件，提出了优化二十二极阱结构的思路，引入了折">
+<meta property="og:type" content="article">
+<meta property="og:title" content="小论文">
+<meta property="og:url" content="http://example.com/2022/12/05/%E5%B0%8F%E8%AE%BA%E6%96%87/index.html">
+<meta property="og:site_name" content="Xiaoyu&#39;s Space">
+<meta property="og:description" content="持续更新中・・・・・・  # 《一种常压二十二极阱的设计与应用研究》 2022.10-2024.01 指导教师：林毅恒 大学生创新创业国家级项目 项目负责人 项目详情：  常压二十二极淀粉阱能够便捷地反映出量子系统中二十二极阱的工作性能，因此搭建常压二十二极淀粉阱实现对其结构设计及束缚特性的研究。我们进行了 COMSOL 模拟得出了二十二极阱的最佳束缚条件，提出了优化二十二极阱结构的思路，引入了折">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2022-12-05T13:56:39.000Z">
+<meta property="article:modified_time" content="2024-05-14T07:34:07.052Z">
+<meta property="article:author" content="Xiaoyu">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/2022/12/05/%E5%B0%8F%E8%AE%BA%E6%96%87/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>小论文 | Xiaoyu's Space</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Xiaoyu's Space</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2022/12/05/%E5%B0%8F%E8%AE%BA%E6%96%87/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Xiaoyu">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Xiaoyu's Space">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          小论文
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2022-12-05 21:56:39" itemprop="dateCreated datePublished" datetime="2022-12-05T21:56:39+08:00">2022-12-05</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2024-05-14 15:34:07" itemprop="dateModified" datetime="2024-05-14T15:34:07+08:00">2024-05-14</time>
+              </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>持续更新中・・・・・・</p>
+<hr>
+<h1 id="一种常压二十二极阱的设计与应用研究br"><a class="markdownIt-Anchor" href="#一种常压二十二极阱的设计与应用研究br">#</a> 《一种常压二十二极阱的设计与应用研究》</br></h1>
+<p>2022.10-2024.01</br><br>
+指导教师：林毅恒</p>
+<p>大学生创新创业国家级项目<br>
+<strong>项目负责人</strong></br></p>
+<p>项目详情：</br></p>
+<blockquote>
+<p>常压二十二极淀粉阱能够便捷地反映出量子系统中二十二极阱的工作性能，因此搭建常压二十二极淀粉阱实现对其结构设计及束缚特性的研究。我们进行了 COMSOL 模拟得出了二十二极阱的最佳束缚条件，提出了优化二十二极阱结构的思路，引入了折线形阱的创新设计。我们设计了 PCB 实现二十二极阱电路的连接，成功束缚了大量带电淀粉粒。进一步，我们优化了端电极设计，制作了折线形淀粉阱增强轴向束缚能力，并实现长达数小时的稳定束缚，验证了折线形阱的荷质比筛选特性，印证了理论推导结果。</br></p>
+</blockquote>
+<p>项目成果：</br></p>
+<blockquote>
+<p>顺利完成大创国家级项目，理论和实验相互印证实现了二十二极淀粉阱的设计与优化，成功束缚大量带电淀粉粒，设计了折线形阱并实现数小时的稳定束缚。</br></p>
+</blockquote>
+<p><a target="_blank" rel="noopener" href="https://haosongsun.github.io/essay/%E4%B8%80%E7%A7%8D%E5%B8%B8%E5%8E%8B%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9E%81%E9%98%B1%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6.pdf"><font color=Blue>&gt;&gt;&gt; 全文链接 &lt;&lt;&lt;</font></a></p>
+<hr>
+<h1 id="三维光子晶体的制备与带隙特性"><a class="markdownIt-Anchor" href="#三维光子晶体的制备与带隙特性">#</a> 《三维光子晶体的制备与带隙特性》</h1>
+<p>2023.10.20-2024.01.01</br><br>
+指导教师：赵伟</p>
+<p>大学物理研究性试验课程论文 </br><br>
+<strong>课程成绩：优秀</strong></p>
+<p>项目详情：</br></p>
+<blockquote>
+<p>为了探究二氧化硅光子晶体的制备条件对效果的影响，分别使用旋涂法、滴涂法、垂直沉积法制备光子晶体并使用扫描电镜观察薄膜形貌，定义了评估薄膜制备优度的指标，使用正交试验方法研究了制备分散液的不同实验条件对微球粒径、分散系数的影响，通过正交分析不同实验条件的实验结果，得到了制备均匀微球的最优实验条件。进一步地理论分析了二氧化硅光子晶体的方向带隙效应，使用紫外红外可见分光光度计测量了透射谱，从实验上证明了光子晶体带隙的存在性。</p>
+</blockquote>
+<p><a target="_blank" rel="noopener" href="https://haosongsun.github.io/essay/%E4%B8%89%E7%BB%B4%E5%85%89%E5%AD%90%E6%99%B6%E4%BD%93%E7%9A%84%E5%88%B6%E5%A4%87%E4%B8%8E%E5%B8%A6%E9%9A%99%E7%89%B9%E6%80%A7.pdf"><font color=Blue>&gt;&gt;&gt; 全文链接 &lt;&lt;&lt;</font></a></p>
+<hr>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2022/11/05/Minecraft%E7%BA%A2%E7%9F%B3/" rel="prev" title="Minecraft红石">
+      <i class="fa fa-chevron-left"></i> Minecraft红石
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2024/04/02/About%20me/" rel="next" title="About me">
+      About me <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%80%E7%A7%8D%E5%B8%B8%E5%8E%8B%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9E%81%E9%98%B1%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6br"><span class="nav-number">1.</span> <span class="nav-text"> 《一种常压二十二极阱的设计与应用研究》</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%B8%89%E7%BB%B4%E5%85%89%E5%AD%90%E6%99%B6%E4%BD%93%E7%9A%84%E5%88%B6%E5%A4%87%E4%B8%8E%E5%B8%A6%E9%9A%99%E7%89%B9%E6%80%A7"><span class="nav-number">2.</span> <span class="nav-text"> 《三维光子晶体的制备与带隙特性》</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">Xiaoyu</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2024</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Xiaoyu</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> 强力驱动
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
