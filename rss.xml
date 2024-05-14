@@ -15,7 +15,7 @@
             <description><![CDATA[ &lt;h1 id=&#34;font-colorcornflowerblue教育经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue教育经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;教育经历&lt;/font&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;2021.09-2025.06    中国科学技术大学，合肥，安徽&lt;br&gt;
-物理学（本科）&lt;/em&gt;&lt;/p&gt;
+物理学（本科）&lt;/em&gt; 原子与分子物理专业 &lt;strong&gt;严济慈科技英才班&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;!-- 
 &gt;* **GPA：** 3.96（前10%）  
@@ -28,35 +28,88 @@
 &lt;h1 id=&#34;font-colorcornflowerblue科研经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue科研经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;科研经历&lt;/font&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2022.10-2024.01  林毅恒教授课题组&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;2024.02-2024.07  汪野教授课题组&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2022.10-2024.01  林毅恒教授课题组&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;大学生创新创业国家级项目 《一种常压二十二极阱的设计与应用研究》&lt;/strong&gt;&lt;/em&gt;&lt;/br&gt;&lt;br&gt;
+&lt;strong&gt;项目负责人&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;项目详情：&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;常压二十二极淀粉阱能够便捷地反映出量子系统中二十二极阱的工作性能，因此搭建常压二十二极淀粉阱实现对其结构设计及束缚特性的研究。我们进行了 COMSOL 模拟得出了二十二极阱的最佳束缚条件，提出了优化二十二极阱结构的思路，引入了折线形阱的创新设计。我们设计了 PCB 实现二十二极阱电路的连接，成功束缚了大量带电淀粉粒。进一步，我们优化了端电极设计，制作了折线形淀粉阱增强轴向束缚能力，并实现长达数小时的稳定束缚，验证了折线形阱的荷质比筛选特性，印证了理论推导结果。&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;项目成果：&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;顺利完成大创国家级项目，理论和实验相互印证实现了二十二极淀粉阱的设计与优化，成功束缚大量带电淀粉粒，设计了折线形阱并实现数小时的稳定束缚。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2024.02-2024.07  万雍教授课题组&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;真空腔玻璃视窗表面面型的测量&lt;/strong&gt;&lt;/em&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;项目详情：&lt;/strong&gt;&lt;/br&gt;&lt;br&gt;
+离子阱系统真空腔玻璃视窗的表面面型起伏对于成像质量具有很大影响，准确测量面型并进行修正对减少成像像差至关重要。我成功搭建起一套 LED 光干涉仪，实现了对玻璃视窗双表面三厘米直径范围面型的准确测量，编写代码利用四步相移法求解相位，解包裹并解析拟合出 SAG, IRR, RSI 等成分的测量值，测量精度达到纳米量级。&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;项目成果：&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;实现了达到 3cm 直径的大范围玻璃面型测量，SAG, IRR, RSI 测量精度：~0.02λ（置信度 95%）&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;font-colorcornflowerblue校园经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue校园经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;校园经历&lt;/font&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;2021.09-2023.07          中科大社团管理指导委员会 组员&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2023.09-2024.01          光学 A 课程助教&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2023.09-2024.01          大学物理基础实验 课程助教&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;font-colorcornflowerblue获奖经历font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue获奖经历font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;获奖经历&lt;/font&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;省级奖项：&lt;/strong&gt;&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;奖学金&lt;/strong&gt;&lt;/br&gt;
 &lt;ul&gt;
-&lt;li&gt;2023 全国大学生数学竞赛（非数学类）一等奖&lt;/li&gt;
+&lt;li&gt;2023 中国科学技术大学 2023 年度优秀生奖学金金奖	&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2023 严济慈科技英才班 A 档奖学金&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2023 中科院微观磁共振重点实验室本科生奖金	&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2022 中国科学技术大学 2022 年度优秀生奖学金金奖&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2022 严济慈科技英才班 A 档奖学金	&lt;/br&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;校级奖项：&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;2023 中国科学技术大学 2023 年度优秀生奖学金金奖&lt;/li&gt;
-&lt;li&gt;2023 严济慈科技英才班 A 档奖学金&lt;/li&gt;
-&lt;li&gt;2023 “九章杯” 数学竞赛非数组一等奖&lt;/li&gt;
-&lt;li&gt;2023 第二届中国科学技术大学摄影摄像与数字艺术大赛数字艺术类一等奖&lt;/li&gt;
-&lt;li&gt;2023 中科院微观磁共振重点实验室本科生奖金&lt;/li&gt;
-&lt;li&gt;2022 中国科学技术大学 2022 年度优秀生奖学金金奖&lt;/li&gt;
-&lt;li&gt;2022 严济慈科技英才班 A 档奖学金&lt;/li&gt;
-&lt;li&gt;2022 自然科学类电磁学小论文竞赛一等奖&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;学术类&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;省级奖项：&lt;/strong&gt;&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 全国大学生数学竞赛（非数学类）一等奖&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;校级奖项：&lt;/strong&gt;     &lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 “九章杯” 数学竞赛非数组一等奖	&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2022 自然科学类电磁学小论文竞赛一等奖&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;文体类&lt;/strong&gt;&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 第二届中国科学技术大学摄影摄像与数字艺术大赛数字艺术类一等奖&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2023 中国科学技术大学 “巅峰对决・百科知识竞赛” 团体赛第一名&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;2022 中国科学技术大学社团管理指导委员会优秀组员&lt;/br&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -71,22 +124,65 @@
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">http://example.com/2022/12/05/%E5%B0%8F%E8%AE%BA%E6%96%87/</guid>
+            <title>小论文</title>
+            <link>http://example.com/2022/12/05/%E5%B0%8F%E8%AE%BA%E6%96%87/</link>
+            <pubDate>Mon, 05 Dec 2022 21:56:39 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;持续更新中・・・・・・&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;一种常压二十二极阱的设计与应用研究br&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一种常压二十二极阱的设计与应用研究br&#34;&gt;#&lt;/a&gt; 《一种常压二十二极阱的设计与应用研究》&lt;/br&gt;&lt;/h1&gt;
+&lt;p&gt;2022.10-2024.01&lt;/br&gt;&lt;br&gt;
+指导教师：林毅恒&lt;/p&gt;
+&lt;p&gt;大学生创新创业国家级项目&lt;br&gt;
+&lt;strong&gt;项目负责人&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;项目详情：&lt;/br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;常压二十二极淀粉阱能够便捷地反映出量子系统中二十二极阱的工作性能，因此搭建常压二十二极淀粉阱实现对其结构设计及束缚特性的研究。我们进行了 COMSOL 模拟得出了二十二极阱的最佳束缚条件，提出了优化二十二极阱结构的思路，引入了折线形阱的创新设计。我们设计了 PCB 实现二十二极阱电路的连接，成功束缚了大量带电淀粉粒。进一步，我们优化了端电极设计，制作了折线形淀粉阱增强轴向束缚能力，并实现长达数小时的稳定束缚，验证了折线形阱的荷质比筛选特性，印证了理论推导结果。&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;项目成果：&lt;/br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;顺利完成大创国家级项目，理论和实验相互印证实现了二十二极淀粉阱的设计与优化，成功束缚大量带电淀粉粒，设计了折线形阱并实现数小时的稳定束缚。&lt;/br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://haosongsun.github.io/essay/%E4%B8%80%E7%A7%8D%E5%B8%B8%E5%8E%8B%E4%BA%8C%E5%8D%81%E4%BA%8C%E6%9E%81%E9%98%B1%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6.pdf&#34;&gt;&lt;font color=Blue&gt;&amp;gt;&amp;gt;&amp;gt; 全文链接 &amp;lt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;三维光子晶体的制备与带隙特性&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三维光子晶体的制备与带隙特性&#34;&gt;#&lt;/a&gt; 《三维光子晶体的制备与带隙特性》&lt;/h1&gt;
+&lt;p&gt;2023.10.20-2024.01.01&lt;/br&gt;&lt;br&gt;
+指导教师：赵伟&lt;/p&gt;
+&lt;p&gt;大学物理研究性试验课程论文 &lt;/br&gt;&lt;br&gt;
+&lt;strong&gt;课程成绩：优秀&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;项目详情：&lt;/br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;为了探究二氧化硅光子晶体的制备条件对效果的影响，分别使用旋涂法、滴涂法、垂直沉积法制备光子晶体并使用扫描电镜观察薄膜形貌，定义了评估薄膜制备优度的指标，使用正交试验方法研究了制备分散液的不同实验条件对微球粒径、分散系数的影响，通过正交分析不同实验条件的实验结果，得到了制备均匀微球的最优实验条件。进一步地理论分析了二氧化硅光子晶体的方向带隙效应，使用紫外红外可见分光光度计测量了透射谱，从实验上证明了光子晶体带隙的存在性。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://haosongsun.github.io/essay/%E4%B8%89%E7%BB%B4%E5%85%89%E5%AD%90%E6%99%B6%E4%BD%93%E7%9A%84%E5%88%B6%E5%A4%87%E4%B8%8E%E5%B8%A6%E9%9A%99%E7%89%B9%E6%80%A7.pdf&#34;&gt;&lt;font color=Blue&gt;&amp;gt;&amp;gt;&amp;gt; 全文链接 &amp;lt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;线缺陷光子晶体的电磁波波导性质研究&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#线缺陷光子晶体的电磁波波导性质研究&#34;&gt;#&lt;/a&gt; 《线缺陷光子晶体的电磁波波导性质研究》&lt;/h1&gt;
+&lt;p&gt;2022.04.30-2022.06.10&lt;/br&gt;&lt;br&gt;
+指导教师：潘海俊&lt;/p&gt;
+&lt;p&gt;电磁学 A 课程小论文&lt;/br&gt;&lt;br&gt;
+&lt;strong&gt;荣获中国科学技术大学电磁学小论文竞赛一等奖&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;项目详情：&lt;/br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本电磁学课程小论文以光子晶体为研究对象，重点剖析了光子晶体的波导特性。首先，利用电磁学理论结合数值分析软件求解了光子禁带范围的数值解。随后，引入线缺陷，进一步计算了波导色散曲线及相关参数。同时，建立三维拓扑模型，分析了实际光子晶体模型的数理建模参数的定量影响机制，重点分析了三维环境光子晶体板波导的损耗。基于此，以光子晶体波导产生的偏振效应为研究切入点，剖析了三维光子晶体板波导的偏振特性，且从理论上提出了消除偏振效应的技术方案。最后，讨论了基于线缺陷光子晶体的谐振腔的谐振特性，依托品质因子和灵敏度分析了技术方案的实用性及可行性。本研究可为深入探索基于光子晶体的传感器设计基础理论探索提供科学参考，有助于光纤设计基础理论解析探索。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://haosongsun.github.io/essay/%E7%BA%BF%E7%BC%BA%E9%99%B7%E5%85%89%E5%AD%90%E6%99%B6%E4%BD%93%E7%9A%84%E7%94%B5%E7%A3%81%E6%B3%A2%E6%B3%A2%E5%AF%BC%E6%80%A7%E8%B4%A8%E7%A0%94%E7%A9%B6.pdf&#34;&gt;&lt;font color=Blue&gt;&amp;gt;&amp;gt;&amp;gt; 全文链接 &amp;lt;&amp;lt;&amp;lt;&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">http://example.com/2022/11/05/Minecraft%E7%BA%A2%E7%9F%B3/</guid>
             <title>Minecraft红石</title>
             <link>http://example.com/2022/11/05/Minecraft%E7%BA%A2%E7%9F%B3/</link>
             <pubDate>Sat, 05 Nov 2022 21:56:39 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;font-colorcornflowerblue当我用-minecraft-完成了-元宇宙导论-作业font&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#font-colorcornflowerblue当我用-minecraft-完成了-元宇宙导论-作业font&#34;&gt;#&lt;/a&gt; &lt;font color=CornflowerBlue&gt;当我用 &lt;em&gt;Minecraft&lt;/em&gt; 完成了 &lt;em&gt;元宇宙导论&lt;/em&gt; 作业&lt;/font&gt;&lt;/h1&gt;
-&lt;p&gt;记录第一次 bilibili 的投稿&lt;br&gt;
-第一个视频就播放量破十万，但是开不了创作激励呜呜呜&lt;/p&gt;
+&lt;p&gt;【我的世界】红石手搓中文输入法&lt;/p&gt;
+&lt;p&gt;b 站首发播放量破十万&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1U24y1f7iY/?spm_id_from=333.337&#34;&gt;&lt;font color=Blue&gt;链接前往：bilibili-【我的世界】最大字库红石输入法&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;从初中到现在一直想做一些 mc 红石科技 &lt;em&gt;“前无古人”&lt;/em&gt; 的创作，本科期间终于有了时间去尝试自己热爱的东西&lt;/p&gt;
-&lt;p&gt;顺手报名了学校的 &lt;em&gt;《元宇宙导论》&lt;/em&gt; 课程，耗时两个月的作品，换了 &lt;em&gt;&lt;strong&gt;香喷喷的 4.3&lt;/strong&gt;&lt;/em&gt;，美汁汁&lt;/p&gt;
+&lt;p&gt;耗时三个月，手搓 &lt;strong&gt;144000bit&lt;/strong&gt; ROM 存储器，自制编码器译码器，创新性改进全网现有的滚显制作方法。&lt;/p&gt;
+&lt;p&gt;被_《元宇宙导论》_ 课程老师认可，得到了特殊加分&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://HaosongSun.github.io/images/%E6%88%90%E7%BB%A9.png&#34; alt=&#34;元宇宙导论成绩单截图&#34;&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;就在我以为事情已经结束的时候，学校的数字艺术大赛突然来了，转手再投一次稿&lt;/p&gt;
-&lt;div align=center&gt;
-&lt;img src=&#34;https://HaosongSun.github.io/images/起飞.jpg&#34;/&gt;
-&lt;/div&gt;
+&lt;p&gt;同时在中科大摄影摄像与数字艺术大赛中投稿，荣获一等奖&lt;/p&gt;
 &lt;div align=center&gt;
 &lt;img src=&#34;https://HaosongSun.github.io/images/一等奖.png&#34;/&gt;
 &lt;/div&gt;
@@ -94,7 +190,7 @@
 &lt;img src=&#34;https://HaosongSun.github.io/images/一等奖捏.png&#34;/&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;p&gt;奖品赢麻了，妮可真慷慨&lt;br&gt;
+&lt;p&gt;奖品展示&lt;br&gt;
 &lt;a href=&#34;https://mp.weixin.qq.com/s/63pW_CCNpXYdcgt5CMo_Og&#34;&gt;&lt;font color=Blue&gt;跳转：第二届中国科大摄影摄像与数字艺术大赛获奖名单（数字艺术与视频类）&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;center class=&#34;half&#34;&gt;
